@@ -16,7 +16,7 @@
 
 ## Download
 
-**[Latest release — MyPillbox.apk](https://github.com/mypillbox-distributions/mypillbox-distributions/releases/latest/download/MyPillbox.apk)**
+**[Latest release — MyPillbox.apk](https://github.com/bahaeddinesaid/mypillbox-distributions/releases/latest/download/MyPillbox.apk)**
 
 Android 8.0 or newer. To install: download the APK, open it, and accept
 "install from unknown sources" once (the standard Android step for any app
@@ -53,7 +53,7 @@ qui a été pris, et ce qui ne l'a pas été.
 - Fonctionne hors ligne ; synchronisation au retour du réseau
 - Votre serveur, vos données — pas de publicité, pas de pistage
 
-**Télécharger :** [dernière version — MyPillbox.apk](https://github.com/mypillbox-distributions/mypillbox-distributions/releases/latest/download/MyPillbox.apk)
+**Télécharger :** [dernière version — MyPillbox.apk](https://github.com/bahaeddinesaid/mypillbox-distributions/releases/latest/download/MyPillbox.apk)
 (Android 8.0+, acceptez une fois « installer depuis des sources inconnues » ·
 les mises à jour s'installent par-dessus sans rien perdre)
 
@@ -76,7 +76,7 @@ l'ordonnance de votre médecin.*
 - يعمل دون إنترنت، والمزامنة تحدث متى عاد الاتصال
 - خادمكم أنتم وبياناتكم — لا إعلانات، لا تتبّع، لا حسابات
 
-**التحميل:** [أحدث إصدار — MyPillbox.apk](https://github.com/mypillbox-distributions/mypillbox-distributions/releases/latest/download/MyPillbox.apk)
+**التحميل:** [أحدث إصدار — MyPillbox.apk](https://github.com/bahaeddinesaid/mypillbox-distributions/releases/latest/download/MyPillbox.apk)
 (أندرويد 8.0 فأحدث — وافق مرة واحدة على «التثبيت من مصادر غير معروفة»،
 والتحديثات تُثبَّت فوق التطبيق دون فقدان أي بيانات)
 
